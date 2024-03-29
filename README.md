@@ -1,7 +1,7 @@
 # About me
 
 - 🔭 **I work for a large airline as ground staff. I seek something more fulfilling (and better paid)** 👺
-- 🌱 I’m currently learning Python/Webflow in my spare time. 
+- 🌱 I’m currently learning Python/Webflow and, of course, the Git Universe in my spare time. 
       I know I have the capacity to learn tech as I passed a Salesforce Associate credential before life took me elsewhere.
 - 👯 I’m looking to collaborate in any way necessary to successfully career pivot post-pandemic and post-50!
 - 🤔 I’m looking for help choosing an appropriate path to greatness (again)
